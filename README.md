@@ -1,4 +1,8 @@
 # beetrip-exo
 Exercise Technique for Beetrip Internship
 
-Link to the Website: http://ninjacanthi1995.github.io/beetrip-exo
+* Setup
+- Git clone
+- npm install
+- npm install -g typescript
+- npm start
