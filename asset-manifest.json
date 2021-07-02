@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/beetrip-exo/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/beetrip-exo/static/js/main.81808744.chunk.js",
+    "main.js.map": "/beetrip-exo/static/js/main.81808744.chunk.js.map",
+    "runtime-main.js": "/beetrip-exo/static/js/runtime-main.9b97eddf.js",
+    "runtime-main.js.map": "/beetrip-exo/static/js/runtime-main.9b97eddf.js.map",
+    "static/css/2.d45d6843.chunk.css": "/beetrip-exo/static/css/2.d45d6843.chunk.css",
+    "static/js/2.e18194f6.chunk.js": "/beetrip-exo/static/js/2.e18194f6.chunk.js",
+    "static/js/2.e18194f6.chunk.js.map": "/beetrip-exo/static/js/2.e18194f6.chunk.js.map",
+    "static/js/3.99332ee5.chunk.js": "/beetrip-exo/static/js/3.99332ee5.chunk.js",
+    "static/js/3.99332ee5.chunk.js.map": "/beetrip-exo/static/js/3.99332ee5.chunk.js.map",
+    "index.html": "/beetrip-exo/index.html",
+    "static/css/2.d45d6843.chunk.css.map": "/beetrip-exo/static/css/2.d45d6843.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/beetrip-exo/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.e18194f6.chunk.js.LICENSE.txt": "/beetrip-exo/static/js/2.e18194f6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b97eddf.js",
+    "static/css/2.d45d6843.chunk.css",
+    "static/js/2.e18194f6.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.81808744.chunk.js"
+  ]
+}
